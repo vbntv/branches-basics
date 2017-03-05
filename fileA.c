@@ -3,3 +3,4 @@ second commit in master branch
 third commit in master branch
 
 first commit in develop branch
+second commit in develop branch
